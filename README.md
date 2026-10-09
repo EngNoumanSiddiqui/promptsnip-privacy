@@ -1,14 +1,5 @@
-# 🛡️ PromptSnip — Privacy Policy
+# PromptSnip Privacy Policy Website
 
-**See it. Select it. Prompt it.**
+Static privacy policy site. `index.html` and `styles.css` are separate. Published via GitHub Pages.
 
-Your privacy matters to us. This policy explains how PromptSnip handles your information, processes content submitted for AI prompt generation, and protects your data.
-
-**Version:** 2.0  
-**Effective Date:** October 9, 2026  
-**Developer:** NoumaniaSoft  
-**Contact:** [noumaniasoft@gmail.com](mailto:noumaniasoft@gmail.com)
-
----
-
-## 1. Introduction
+Contact: noumaniasoft@gmail.com
